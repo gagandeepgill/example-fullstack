@@ -2,6 +2,7 @@
 
 ## Tech Stack
 [Next.js (typescript)](https://nextjs.org/)
+
 [Prettier.io](https://prettier.io/docs/en/index.html)
 
 
